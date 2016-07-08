@@ -1,0 +1,116 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.234 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 26a4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362961 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityStandardAssets.Cameras.PivotBasedCameraRig.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3255.
+Total: 0.811765 ms (FindLiveObjects: 0.152089 ms CreateObjectMapping: 0.087241 ms MarkObjects: 0.376491 ms  DeleteObjects: 0.195010 ms)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "PyramidCube (102)", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "PyramidCube (103)", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "PyramidCube (75)", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "PyramidCube (89)", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "PyramidCube (182)", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 1265)
+
+Platform assembly: C:\Users\Shrey\Google Drive\Project C\CoinRaider_Data\Managed\Boo.Lang.dll (this message is harmless)
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.902630 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 4.725968 ms (FindLiveObjects: 0.076977 ms CreateObjectMapping: 0.074645 ms MarkObjects: 0.548175 ms  DeleteObjects: 4.022438 ms)
+
